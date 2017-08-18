@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Huh? Software Development?? "
-date:   2017-08-18 04:00:31 +0000
+date:   2017-08-18 00:00:32 -0400
 ---
 
 
