@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Huh? Software Development?? "
+date:   2017-08-18 04:00:31 +0000
+---
+
+
+So why did I decide to pursue such a drastic career change in this thing all the cool kids call "coding", after only having first heard about it a little over a year ago?  I have no background in the tech field, I was an Economics and French major in college and spent the majority of my working years as an elementary teacher.  Heck, I've never been really good at math, which I can remember was the reason I never even considered studying computer science in school.  I have however, always been interested in technology since I was a kid.  I have vivid memories of playing games on an Apple II as a 5 year old after school, waiting for my dad (principal at the school) to go home.  Ever since then I've been fascinated with technology.
+
+As far as coding goes, I can't say that there was this *Aha!* moment in my journey where I was exposed to it and I just knew then and there this is what I wanted to do.  Instead I would say my interest in programming has been a slow and steady build up; which for me is a good thing and I will get to this later. My first exposure to coding was a matter of coincidence.  A few years back I moved to the Seattle area from Mexico, and while I've always been excited to be living in such a huge tech hub I never thought I had the skills necessary to be a part of that world.  Well one random day I overheard a stranger mention the term "coding bootcamp" and my curiousity led me to slowly discover the world of programming.  
+
+In a little over a year I slowly but persistenly went from learning what coding even was to learning about HTML, CSS, Python and Ruby through all the myriad free resources online.  Yes, I found making websites interesting. Yes, I was excited about the creative nature of programming and its potential of having my work reach others.  Yes, I love the problem solving and that rush of excitement that comes when I finally get code to work.  Of course the prospect of having a lucrative career is enticing.  However, after some introspect, what really stood out to me were two things.  First, I have loved the actual journey of learning.  Learning for the sake of learning, enjoying the realization that the more I learn the more I realize how much more there is to learn.  Second, the fact that even after a year of consistently "struggling" to learn coding on my own I hadn't quit.  I can count on one hand the number of interests I've kept up for that long and that's when it hit me that I actually really enjoy this.
+
+During my time as a teacher, I would constantly share my love of technology with my students and tried to encourage them to pursue their own interests so that they could one day be part of that world. Well, I've decided to take my own advice.
