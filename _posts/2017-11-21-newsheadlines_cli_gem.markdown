@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "NewsHeadlines CLI Gem!"
-date:       2017-11-22 00:54:37 +0000
+date:       2017-11-21 19:54:37 -0500
 permalink:  newsheadlines_cli_gem
 ---
 
